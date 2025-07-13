@@ -1,0 +1,4 @@
+spring.liquibase.change-log=classpath:/db.changelog/db.changelog-master.yaml
+spring.datasource.url=jdbc:postgresql://localhost:25432/credit_app
+spring.datasource.username=user
+spring.datasource.password=user
